@@ -23,7 +23,6 @@ public class GroceryStore {
 		
 		@SuppressWarnings({ "unused", "deprecation" })
 		Product Milk= new Product("Milk", 2.00,15, new Date("08/01/2021"),Product.categorytype.Dairy);
-		//New Comment
 
 	}
 
